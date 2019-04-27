@@ -1,3 +1,7 @@
+---
+layout: post
+title: Journal March 30 
+---
 
 # Journal RC Coqui Car
 
