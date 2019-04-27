@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: Journal April 29th
 ---
 
