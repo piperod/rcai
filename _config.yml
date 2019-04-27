@@ -1,3 +1,5 @@
 theme: jekyll-theme-architect
 title: Welcome to RC Coqui AI project !
 description: A journey for building an Autonomous RC car! 
+base : ""
+url: https://piperod.github.io/rcai/
